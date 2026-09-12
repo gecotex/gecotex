@@ -1,0 +1,41 @@
+{
+  "generator": "BrandForge Bot",
+  "engine": "Universal Creative Commerce Builder + Complete GitHub Builder",
+  "version": 14,
+  "generated_at": "2026-09-12T15:06:35.522Z",
+  "avatar": {
+    "bytes": 4679,
+    "kilobytes": 4.6,
+    "underOneMb": true,
+    "width": 512,
+    "height": 512,
+    "mime": "image/png"
+  },
+  "paths": [
+    ".github/CODEOWNERS",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/pull_request_template.md",
+    "ARCHITECTURE.md",
+    "BRAND.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTENT.md",
+    "CONTRIBUTING.md",
+    "DEPLOYMENT.md",
+    "README.md",
+    "ROADMAP.md",
+    "SECURITY.md",
+    "SUPPORT.md",
+    "brand/brand.json",
+    "brand/logo.svg",
+    "brand/profile-avatar.png",
+    "brand/visual-hero.svg",
+    "docs/ASSET-INVENTORY.md",
+    "docs/COMMERCE-SETUP.md",
+    "docs/CREATIVE-DNA.md",
+    "docs/SEO-CHECKLIST.md",
+    "docs/site-map.md"
+  ]
+}

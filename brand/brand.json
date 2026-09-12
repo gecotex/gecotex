@@ -1,0 +1,33 @@
+{
+  "name": "Gecotex",
+  "tagline": "Built to Be Discovered.",
+  "category": "ecommerce",
+  "description": "A modern commerce brand designed around products, collections, customer experience, and digital discovery.",
+  "colors": [
+    "#0c1020",
+    "#ffffff",
+    "#ff5b35",
+    "#3478ff",
+    "#a7b1c8",
+    "#141a2c"
+  ],
+  "website": "https://gecotex.github.io/",
+  "principles": [
+    "products",
+    "discovery",
+    "experience",
+    "identity"
+  ],
+  "support": {
+    "email": null,
+    "phone": "+1 575 652 7735",
+    "salesPhone": "+1 575 652 7735",
+    "businessPhone": "+1 575 652 7735",
+    "hours": "11:01 PM 8/7/26",
+    "center": "https://gecotex.github.io/support.html"
+  },
+  "privacy": {
+    "connectedAccountEmailPublished": false
+  },
+  "telnyxMode": false
+}
